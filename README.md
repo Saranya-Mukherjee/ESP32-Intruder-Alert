@@ -37,7 +37,7 @@ Get the python code running:
 Step 4:
 How to get the IP address of the ESP32 board:
 1. Attach the Arduino-ESP32 system as told before to the computer.
-2. Open Serial Monitor in Arduino IDE.
+2. Open Serial Monitor in Arduino IDE; set the baud rate to: 115200.
 3. Press "reset" on the ESP32 board and wait for it to connect to the wifi network.
 4. The ESP32 board will print its IP address to the serial monitor once it has connected to the network.
 
