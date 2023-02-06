@@ -28,7 +28,7 @@ Upload the code:
 
 Step 3:
 Get the python code running:
-1. Download the python code from th git repo.
+1. Download the python code from th git repo [included in folder: IntruderAlert]. Also download the provided HaarCascades.
 2. Open up the code in your preferred editor.
 3. Install "Open CV", "Numpy", "Matplotlib" and "Pandas" for python.
 4. Get the IP of the WebServer created by the ESP32 board and insert it into the code.
